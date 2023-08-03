@@ -6,8 +6,13 @@ const Footer = () => {
         <div className="container text-black">
             <div className="row mt-3 ">
                 <div className="col-md-3">
-                    <a href="tel:+239035169253">
-                    <h6>+239035169253</h6>
+                    <h6> Contacts:</h6>
+                    <a href="tel:+239035169253">                      
+                        Doris: 09035169253 (Lagos)                      
+                    </a>
+                    <br />
+                    <a href="tel:+2348097659230">                      
+                         Fechi: +2348097659230 (Abuja)                     
                     </a>
                     <hr />
                     <div className="w-50 my-4">
@@ -16,7 +21,7 @@ const Footer = () => {
                         <img src="../../../assets/icons/facebook.png" alt="..." style={{width:"1.5rem"}}/>
                     </div>
                 </div>
-                <div className="col-md-3">
+                {/* <div className="col-md-3">
                     <a href="#services">
                         <ul className='px-1' id='services'>Services</ul>
                     </a>
@@ -52,7 +57,7 @@ const Footer = () => {
                     <a href="#">
                         <ul className='px-1'>Get Help</ul>
                     </a>
-                </div>
+                </div> */}
             </div>
         </div>
         <div className="bg-color">

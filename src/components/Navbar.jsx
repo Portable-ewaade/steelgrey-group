@@ -25,14 +25,7 @@ const Navbar = () => {
           <Link href="#about" class="nav-link text-color active"> About
           </Link>
         </li>
-        <li className="nav-item me-4">
-          <Link href="/join" class="nav-link text-color active">Join Our Team
-          </Link>
-        </li>
-        <li className="nav-item me-4 ">
-          <a className="nav-link text-color " href="/reviews">Reviews</a>
-        </li>
-      </ul>
+    </ul>
          <button className="btn text-white bg-color fw-medium py-2 px-4 shadow-lg" type="submit">
           <a href="/getStarted">Get Started</a>
          </button>

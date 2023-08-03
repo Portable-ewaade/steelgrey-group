@@ -21,21 +21,21 @@ export default function Home() {
             {/* show on mobile */}
           <div className='col-md-6 ui-show-only ui-hide-big ps-0'>
               <div className="pt-5 mt-4 mx-auto">        
-                <img src="../../../assets/clean7.jpg" class="d-block im-fluid" alt="..."/>
+                <img src="../../../assets/house.jpg" class="d-block im-fluid" alt="..."/>
                 </div>
               </div>
 
             <div className='col-md-6 ui-hide-only'>
                 <div className="pt-5 mt-4">
-                    <h1 className='fs-xxxlarge lh-1 text-color mb-4'>SteelGrey Group <br /> Limited</h1>
-                    <p className='pt-3 fs-normal'>Steelgrey Cleaning Specialists are on a mission to provide first class cleaning services and customer care, putting the customers needs at the forefront of all we do.</p>
+                    <h1 className='fs-xxxlarge lh-1 text-color mb-4'>SteelGrey Group <br  className='d-none d-md-block'/> Limited</h1>
+                    <p className='pt-3 fs-normal'>Steelgrey group offers a comprehensive range of services to help you make informed decisions and achieve your lifestyle goals</p>
 
                 </div>
             </div>
               {/* carousel */}
               <div className='col-md-6 ui-hide-only ps-0 '>
               <div className="pt-5 mt-4">
-                <img src="../../../assets/clean7.jpg" class="d-block img-fluid" alt="..."/>
+                <img src="../../../assets/house.jpg" class="d-block img-fluid" alt="..."/>
                 </div>
               </div>
               {/* show on laptop */}
@@ -63,27 +63,27 @@ export default function Home() {
                 <div className="col-md-4 border-0">
                     <div className="card border-0 ">
                         <div className="card-body shadow-lg p-4 mb-3">
-                            <h1 className='text-color mt-2 mb-md-4'>1.</h1>
-                            <h2 className='text-color my-md-5 my-sm-2'>Steelgrey Cleaning service</h2>
-                            <p className='mb-4'>Get in touch with our friendly Lagos & Abuja-based cleaning company about your requirements today. Whether you’re a homeowner, tenant, landlord or corporate client, we are ready to help.</p>
+                            <h1 className='text-color  mb-md-2'>1.</h1>
+                            <h2 className='text-color my-md-3 my-sm-2'>Steelgrey Cleaning service</h2>
+                            <p className='mb-4'> Your Trusted Cleaning Experts! We are dedicated to providing top-notch cleaning solutions for homes and businesses alike. Our services include residential cleaning, commercial cleaning, deep cleaning, and eco-friendly options. With a team of skilled and trained professionals, we ensurepo hygienic cleaning experience. </p>
                         </div>
                     </div>
                 </div>
                 <div className="col-md-4">
                     <div className="card border-0 ">
                         <div className="card-body shadow-lg p-4 mb-3">
-                            <h1 className='text-color mt-2 mb-md-5 my-sm-2'>2.</h1>
-                            <h2 className='text-color mb-md-5 mb-sm-4'>Arrange A Consultation</h2>
-                            <p>For all our cleaning services, we undertake a bespoke no obligation consultation to ensure our work is tailored to your needs down to the very last detail.</p>
+                            <h1 className='text-color mb-md-2 my-sm-2'>2.</h1>
+                            <h2 className='text-color mb-md-3 mb-sm-4'>Steelgrey Group Real estate</h2>
+                            <p>Discover your dream home with the help of our comprehensive real estate listings. Whether you're looking to buy, sell, or rent, we've got you covered. Our expert team of real estate agents is dedicated to assisting you throughout your property journey, providing personalized solutions tailored to your unique needs</p>
                         </div>
                     </div>
                 </div>
                 <div className="col-md-4">
                     <div className="card border-0">
                         <div className="card-body shadow-lg p-4">
-                            <h1 className='text-color mt-2 mb-md-5 my-sm-2'>3.</h1>
-                            <h2 className='text-color mb-3'>Get ready to Steelgrey</h2>
-                            <p>Our experienced and dependable Lagos & Abuja cleaners will arrive on-time and complete your clean to the highest possible standard, leaving your property Steelgreyd. Whether you choose a one-off clean or a regular service package, we are confident you will love our results.</p>
+                            <h1 className='text-color mb-md-2 my-sm-2'>3.</h1>
+                            <h2 className='text-color mb-3'>Steegrey Consulting</h2>
+                            <p>We are your trusted advisors, offering expert guidance in various domains. Our services include real estate consulting, cleaning service consulting, business strategy, and more. With a team of experienced consultants, we provide data-driven insights and tailor-made solutions to help you achieve your goals. Whether you're an individual, a business, or an organization, we are here to support you at every step.</p>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@ export default function Home() {
         </div>
 
         <div className="text-center">
-                <h1 className='text-color mt-5 fw-light fs-xxxlarge'>Solutions for every <br /> business needs</h1>
+                <h1 className='text-color mt-5 fw-light fs-xxlarge'>Work with any of our <br className='d-none d-md-block'/> services group </h1>
 
                 <button className="btn text-white bg-color fw-medium px-4 shadow-lg" type="submit">
                 <a href="/getStarted">How can we help?</a>
@@ -135,7 +135,7 @@ export default function Home() {
                          <img src="../../../../assets/clean7.jpg" alt="..." className=''/>
                     </div>
                 </div>
-                <div className="col-md-6 mb-4 ">
+                <div className="col-md-6 mb-md-4 mt-4 mt-md-0">
                     <div className=" mt-3 ">
                           <h1 className='fs-xxlarge line-height text-color mb-4'>About Steelgrey Group</h1>
                           <p className='pt-3 fs-normal text-black fs-large '>At Steelgrey, we strive for excellence in everything we do. Whether we are working with a domestic client or a large corporation, we are committed to providing the highest quality cleaning services. If you are an individual with cleaning experience, have a professional attitude and a dedication to doing the best job possible, you’ll love working at Steelgrey.</p>
@@ -147,7 +147,7 @@ export default function Home() {
                 <div className="col-md-6 mt-md-3">
                     <div className=" mt-md-3 ">
                           <h1 className='fs-xxlarge line-height text-color mb-4'>Benefits of working with Steelgrey</h1>
-                          <p className='pt-3 fs-normal text-black fs-large '>We have a range of positions available at competitive rates. There are progression opportunities for our team members to build a rewarding career with us at Steelgrey too. We currently have full-time, part-time and apprentice jobs open, so please contact us for more information.</p>
+                          <p className='pt-md-3 fs-normal text-black fs-large '>We have a range of positions available at competitive rates. There are progression opportunities for our team members to build a rewarding career with us at Steelgrey too. We currently have full-time, part-time and apprentice jobs open, so please contact us for more information.</p>
                           <p className='pt-3 fs-normal text-black fs-large '>We think Steelgrey is one of the best cleaning companies to work for. If you are looking for cleaning jobs in Lagos & Abuja and the surrounding areas, we would love to have you join our team.</p>
                       </div>
                 </div>
