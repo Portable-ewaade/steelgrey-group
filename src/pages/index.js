@@ -104,27 +104,6 @@ export default function Home() {
                 <a href="/getStarted">How can we help?</a>
               </button>
            </div>
-
-            {/* <section className='happy-customer-section'>
-            <div className='container text-black'>
-              <div className='row'>
-                <div className='col-md-10 mx-auto'>
-                <h1 className='mt-5 pt-4 mb-4 text-center fs-xxxlarge text-color'>Happy Customers, Happy Homes & Happy Businesses</h1>
-                  <div className="row">
-                    <div className='col-md-12 mx-auto'>
-                      <div>
-                          <p className='fs-normal text-center '><q className=''>Tom and his team at Steelgrey were recommended to us and I’m really glad they were. They have carried out excellent work with real attention to detail. All of our clients have been delighted with their work be it end of tenancy cleans, full sterilised cleans or usual home cleans. We will certainly continue to use Tom in the future as it is so important to have reliable contractors in our industry. Thanks for the great work!</q></p>
-                      </div>
-                      <div>
-                          <h6 className='text-color text-center my-4'>James Managing Partner Rice Chamberlains Estate Agents</h6>
-                      </div>
-                    </div>
-              
-                  </div>
-                </div>
-              </div>
-            </div>
-                </section>  */}
     </div>
 
     {/* third session */}
