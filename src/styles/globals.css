@@ -1,9 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
-  --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
-    'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
-    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
+  --font-mono: 'Work Sans', 'San-serif'
 
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -83,15 +83,19 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
-}
-
-body {
-  background-color: #ffff;
+  color: rgb(var(--foreground-rgb));
+  background: #ffffff;
+  font-family: 'Lora', sans-serif !important;
 }
 
 a {
   color: inherit;
   text-decoration: none;
+  font-family: 'Lora', sans-serif !important;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Lora', sans-serif;
+  font-weight: 600;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -99,3 +103,81 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.fs-small{
+  font-size: 14px !important;
+}
+
+.fs-normal{
+  font-size: 16px !important;
+}
+.fs-medium{
+  font-size: 25px !important;
+}
+
+.fs-large{
+  font-size: 18px !important;
+}
+
+.fs-xlarge{
+  font-size: 30px !important;
+}
+
+.fs-xxlarge{
+  font-size: 35px !important;
+}
+
+.fs-xxxlarge{
+  font-size: 50px !important;
+}
+.fs-larger{
+  font-size: 40px !important;
+}
+
+.mx{
+  margin-bottom: 4rem !important;
+}
+.line-height{
+  line-height: 45px;
+}
+.text-color{
+  color: #f2af2b !important; 
+}
+.bg-color{
+  background-color: #f2af2b !important; 
+}
+
+.enquiries img{
+  width: 75%;
+  filter: brightness(65%);
+}
+.how-it-works img{
+  width: 75%;
+  filter: brightness(65%);
+}
+
+.ui-hide-big{
+  display: none;
+}
+
+.carousel-item img {
+  width: 35rem !important;
+  height: 27rem !important;
+}
+.arrrow-i{
+  width: 2.5rem !important;
+}
+.arrrow-ii{
+  width: 2rem !important;
+  height: 2rem !important;
+}
+.icons{
+  width: 4rem !important;
+}
+
+.services-icons{
+  width: 6rem !important;
+  margin-top: -3.9rem !important;
+}
+
