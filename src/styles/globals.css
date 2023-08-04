@@ -148,15 +148,6 @@ h1,h2,h3,h4,h5,h6 {
   background-color: #f2af2b !important; 
 }
 
-.enquiries img{
-  width: 75%;
-  filter: brightness(65%);
-}
-.how-it-works img{
-  width: 75%;
-  filter: brightness(65%);
-}
-
 .ui-hide-big{
   display: none;
 }
