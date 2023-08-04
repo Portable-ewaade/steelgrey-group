@@ -17,9 +17,9 @@ export default function Home() {
 
       <section>
         <div className='container text-black p-md-'>
-          <div className='row ps-0'>
+          <div className='row '>
             {/* show on mobile */}
-          <div className='col-md-6 ui-show-only ui-hide-big ps-0'>
+          <div className='col-md-6 ui-show-only ui-hide-big '>
               <div className="pt-5 mt-4 mx-auto">        
                 <img src="../../../assets/house.jpg" class="d-block im-fluid" alt="..."/>
                 </div>
@@ -32,8 +32,8 @@ export default function Home() {
 
                 </div>
             </div>
-              {/* carousel */}
-              <div className='col-md-6 ui-hide-only ps-0 '>
+              {/* show on laptop*/}
+              <div className='col-md-6 ui-hide-only '>
               <div className="pt-5 mt-4">
                 <img src="../../../assets/house.jpg" class="d-block img-fluid" alt="..."/>
                 </div>
