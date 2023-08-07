@@ -28,7 +28,7 @@ export default function Home() {
             <div className='col-md-6 ui-hide-only'>
                 <div className="pt-5 mt-4">
                     <h1 className='fs-xxxlarge lh-1 text-color mb-4'>SteelGrey Group <br  className='d-none d-md-block'/> Limited</h1>
-                    <p className='pt-3 fs-normal'>Steelgrey group offers a comprehensive range of services to help you make informed decisions and achieve your lifestyle goals</p>
+                    <p className='pt-3 fs-normal'>Steelgrey group offers you a varying range of services aimed at providing you with the ease & flexibility needed to achieve your lifestyle goals. </p>
 
                 </div>
             </div>
@@ -54,39 +54,31 @@ export default function Home() {
 
       {/* second session */}
       <div id='services'>
-        <div className="container ">
+        <div className="container mt-md-5">
             <hr />
            <div className="text-center">
-                <h1 className='text-color my-5 fw-light fs-xxxlarge'>Solutions for every <br /> business needs</h1>
+                <h1 className='text-color my-5 fw-light fs-xxxlarge'>We Are A Home / Office Away!</h1>
            </div>
            <div className="row ">
-                <div className="col-md-4 border-0">
+                <div className="col-md-6 border-0">
                     <div className="card border-0 ">
                         <div className="card-body shadow-lg p-4 mb-3">
                             <h1 className='text-color  mb-md-2'>1.</h1>
                             <h2 className='text-color my-md-3 my-sm-2'>Steelgrey Cleaning service</h2>
-                            <p className='mb-4'> Your Trusted Cleaning Experts! We are dedicated to providing top-notch cleaning solutions for homes and businesses alike. Our services include residential cleaning, commercial cleaning, deep cleaning, and eco-friendly options. With a team of skilled and trained professionals, we ensurepo hygienic cleaning experience. </p>
+                            <p className='mb-4 '> Steelgrey Cleaning serviceWe've got the perfect clean-up team for you! Steel Grey is committed to ensuring your home or business cleaning needs are excellently catered for. We offer expert and top-notch cleaning solutions so you can expect a thorough and detailed process from start to finish. Choose any of our wide range of services;  residential cleaning, commercial cleaning, deep cleaning, and eco-friendly options, and our team of skilled and trained professionals will be there to give you the best cleaning experience.</p>
                         </div>
                     </div>
                 </div>
-                <div className="col-md-4">
+                <div className="col-md-6">
                     <div className="card border-0 ">
                         <div className="card-body shadow-lg p-4 mb-3">
                             <h1 className='text-color mb-md-2 my-sm-2'>2.</h1>
                             <h2 className='text-color mb-md-3 mb-sm-4'>Steelgrey Group Real estate</h2>
-                            <p>Discover your dream home with the help of our comprehensive real estate listings. Whether you're looking to buy, sell, or rent, we've got you covered. Our expert team of real estate agents is dedicated to assisting you throughout your property journey, providing personalized solutions tailored to your unique needs</p>
+                            <p className='pb-5'>Steelgrey Group Real estate Dream homes do exist in our world and our comprehensive real estate listings have been specifically designed to achieve this. Whether you're looking to buy, sell, or rent, we've got the perfect deal for you! We have a team of real estate agents dedicated to assisting you throughout your property journey, providing personalized solutions tailored to your unique needs.</p>
                         </div>
                     </div>
                 </div>
-                <div className="col-md-4">
-                    <div className="card border-0">
-                        <div className="card-body shadow-lg p-4">
-                            <h1 className='text-color mb-md-2 my-sm-2'>3.</h1>
-                            <h2 className='text-color mb-3'>Steegrey Consulting</h2>
-                            <p>We are your trusted advisors, offering expert guidance in various domains. Our services include real estate consulting, cleaning service consulting, business strategy, and more. With a team of experienced consultants, we provide data-driven insights and tailor-made solutions to help you achieve your goals. Whether you're an individual, a business, or an organization, we are here to support you at every step.</p>
-                        </div>
-                    </div>
-                </div>
+               
                 {/* <div className="text-color d-flex justify-content-end my-4">
                     <h4 className='fw-normal'>Make an enquiry
                       <a href="/getStarted">
@@ -101,7 +93,7 @@ export default function Home() {
                 <h1 className='text-color mt-5 fw-light fs-xxlarge'>Work with any of our <br className='d-none d-md-block'/> services group </h1>
 
                 <button className="btn text-white bg-color fw-medium px-4 shadow-lg" type="submit">
-                <a href="/getStarted">How can we help?</a>
+                <a href="/">How can we help?</a>
               </button>
            </div>
     </div>
@@ -117,7 +109,8 @@ export default function Home() {
                 <div className="col-md-6 mb-md-4 mt-4 mt-md-0">
                     <div className=" mt-3 ">
                           <h1 className='fs-xxlarge line-height text-color mb-4'>About Steelgrey Group</h1>
-                          <p className='pt-3 fs-normal text-black fs-large '>At Steelgrey, we strive for excellence in everything we do. Whether we are working with a domestic client or a large corporation, we are committed to providing the highest quality cleaning services. If you are an individual with cleaning experience, have a professional attitude and a dedication to doing the best job possible, you’ll love working at Steelgrey.</p>
+                          <p className='pt-3 fs-normal text-black fs-large '>At Steelgrey, excellence is our core value. We often tell our clients to expect perfection in the execution of our cleaning services so quality delivery is non-negotiable. If you are an individual with optimum cleaning experience, and you have the professionalism and dedication needed for flawless execution, you’ll love working at Steelgrey.
+</p>
                       </div>
                 </div>
             </div>
@@ -125,9 +118,9 @@ export default function Home() {
             <div className="row mt-md-5">
                 <div className="col-md-6 mt-md-3">
                     <div className=" mt-md-3 ">
-                          <h1 className='fs-xxlarge line-height text-color mb-4'>Benefits of working with Steelgrey</h1>
-                          <p className='pt-md-3 fs-normal text-black fs-large '>We have a range of positions available at competitive rates. There are progression opportunities for our team members to build a rewarding career with us at Steelgrey too. We currently have full-time, part-time and apprentice jobs open, so please contact us for more information.</p>
-                          <p className='pt-3 fs-normal text-black fs-large '>We think Steelgrey is one of the best cleaning companies to work for. If you are looking for cleaning jobs in Lagos & Abuja and the surrounding areas, we would love to have you join our team.</p>
+                          <h1 className='fs-xxlarge line-height text-color mb-4'>Why Should You Work With Steel Grey?</h1>
+                          <p className='pt-md-3 fs-normal text-black fs-large '>Steel Grey offers varying work positions at competitive rates. Team members can explore the career-friendly opportunities we provide to upscale their careers, making it the ideal work environment for a growing professional. You can also choose from our full-time, part-time, and apprentice job options, so please contact us for more information. Steel Grey is one of the best cleaning companies to work for. If you are looking for cleaning jobs in Lagos & Abuja and the surrounding areas, we think you would fit greatly into our team.</p>
+
                       </div>
                 </div>
                 <div className="col-md-6">

@@ -27,7 +27,7 @@ const Navbar = () => {
         </li>
     </ul>
          <button className="btn text-white bg-color fw-medium py-2 px-4 shadow-lg" type="submit">
-          <a href="/getStarted">Get Started</a>
+          <a href="#services">Get Started</a>
          </button>
      </div>
      </div>
