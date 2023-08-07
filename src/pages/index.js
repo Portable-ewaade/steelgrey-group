@@ -57,7 +57,7 @@ export default function Home() {
         <div className="container mt-md-5">
             <hr />
            <div className="text-center">
-                <h1 className='text-color my-5 fw-light fs-xxxlarge'>We Are A Home / Office Away!</h1>
+                <h1 className='text-color my-5 fw-light fs-xxxlarge'>We Are A Home & Office Away!</h1>
            </div>
            <div className="row ">
                 <div className="col-md-6 border-0">
