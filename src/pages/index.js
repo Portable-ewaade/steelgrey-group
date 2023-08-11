@@ -91,10 +91,6 @@ export default function Home() {
 
         <div className="text-center">
                 <h1 className='text-color mt-5 fw-light fs-xxlarge'>Work with any of our <br className='d-none d-md-block'/> services group </h1>
-
-                {/* <button className="btn text-white bg-color fw-medium px-4 shadow-lg" type="submit">
-                <a href="/">How can we help?</a>
-              </button> */}
            </div>
     </div>
 
