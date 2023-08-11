@@ -62,7 +62,7 @@ export default function Home() {
            <div className="row ">
                 <div className="col-md-6 border-0">
                     <div className="card border-0 ">
-                        <a href="https://steelgrey-cleaning.netlify.app/">
+                        <a href="https://steelgrey-cleaning.netlify.app/" target='blank'>
                         <div className="card-body shadow-lg p-4 mb-3">
                             <h1 className='text-color  mb-md-2'>1.</h1>
                             <h2 className='text-color my-md-3 my-sm-2'>Steelgrey Cleaning service</h2>
@@ -73,11 +73,11 @@ export default function Home() {
                 </div>
                 <div className="col-md-6">
                     <div className="card border-0 ">
-                        <a href="/">
+                        <a href="https://www.steelgreygroup.com" target='blank'>
                         <div className="card-body shadow-lg p-4 mb-3">
                             <h1 className='text-color mb-md-2 my-sm-2'>2.</h1>
                             <h2 className='text-color mb-md-3 mb-sm-4'>Steelgrey Group Real estate</h2>
-                            <p className='pb-5'>Steelgrey Group Real estate Dream homes do exist in our world and our comprehensive real estate listings have been specifically designed to achieve this. Whether you're looking to buy, sell, or rent, we've got the perfect deal for you! We have a team of real estate agents dedicated to assisting you throughout your property journey, providing personalized solutions tailored to your unique needs.</p>
+                            <p className='pb-4'>Steelgrey Group Real estate Dream homes do exist in our world and our comprehensive real estate listings have been specifically designed to achieve this. Whether you're looking to buy, sell, or rent, we've got the perfect deal for you! We have a team of real estate agents dedicated to assisting you throughout your property journey, providing personalized solutions tailored to your unique needs.</p>
                         </div>
                         </a>
                     </div>
