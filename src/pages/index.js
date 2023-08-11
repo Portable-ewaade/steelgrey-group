@@ -62,20 +62,24 @@ export default function Home() {
            <div className="row ">
                 <div className="col-md-6 border-0">
                     <div className="card border-0 ">
+                        <a href="https://steelgrey-cleaning.netlify.app/">
                         <div className="card-body shadow-lg p-4 mb-3">
                             <h1 className='text-color  mb-md-2'>1.</h1>
                             <h2 className='text-color my-md-3 my-sm-2'>Steelgrey Cleaning service</h2>
                             <p className='mb-4 '> Steelgrey Cleaning serviceWe've got the perfect clean-up team for you! Steel Grey is committed to ensuring your home or business cleaning needs are excellently catered for. We offer expert and top-notch cleaning solutions so you can expect a thorough and detailed process from start to finish. Choose any of our wide range of services;  residential cleaning, commercial cleaning, deep cleaning, and eco-friendly options, and our team of skilled and trained professionals will be there to give you the best cleaning experience.</p>
                         </div>
+                        </a>
                     </div>
                 </div>
                 <div className="col-md-6">
                     <div className="card border-0 ">
+                        <a href="/">
                         <div className="card-body shadow-lg p-4 mb-3">
                             <h1 className='text-color mb-md-2 my-sm-2'>2.</h1>
                             <h2 className='text-color mb-md-3 mb-sm-4'>Steelgrey Group Real estate</h2>
                             <p className='pb-5'>Steelgrey Group Real estate Dream homes do exist in our world and our comprehensive real estate listings have been specifically designed to achieve this. Whether you're looking to buy, sell, or rent, we've got the perfect deal for you! We have a team of real estate agents dedicated to assisting you throughout your property journey, providing personalized solutions tailored to your unique needs.</p>
                         </div>
+                        </a>
                     </div>
                 </div>
                
