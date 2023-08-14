@@ -64,7 +64,7 @@ const Footer = () => {
             <div className="container">
                 <div className="row mt-5 pt-md-4 pt-3 ">
                     <div className="col-md-6">
-                        <p>Copyright &copy; Gray Cleaning 2023 </p>
+                        <p>Copyright &copy; Steelgrey Group 2023 </p>
                     </div>
                     <div className="col-md-6">
                     <a href="#">

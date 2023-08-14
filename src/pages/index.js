@@ -66,7 +66,7 @@ export default function Home() {
                         <div className="card-body shadow-lg p-4 mb-3">
                             <h1 className='text-color  mb-md-2'>1.</h1>
                             <h2 className='text-color my-md-3 my-sm-2'>Steelgrey Cleaning service</h2>
-                            <p className='mb-4 '> Steelgrey Cleaning serviceWe've got the perfect clean-up team for you! Steel Grey is committed to ensuring your home or business cleaning needs are excellently catered for. We offer expert and top-notch cleaning solutions so you can expect a thorough and detailed process from start to finish. Choose any of our wide range of services;  residential cleaning, commercial cleaning, deep cleaning, and eco-friendly options, and our team of skilled and trained professionals will be there to give you the best cleaning experience.</p>
+                            <p className='mb-4 '> Steelgrey Cleaning service We've got the perfect clean-up team for you! Steelgrey is committed to ensuring your home or business cleaning needs are excellently catered for. We offer expert and top-notch cleaning solutions so you can expect a thorough and detailed process from start to finish. Choose any of our wide range of services;  residential cleaning, commercial cleaning, deep cleaning, and eco-friendly options, and our team of skilled and trained professionals will be there to give you the best cleaning experience.</p>
                         </div>
                         </a>
                     </div>
